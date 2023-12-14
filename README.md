@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @max1121, I live in UK. I have over 14+ years of experience in development and support of IT applications.
+- 👋 Hi, I’m @max1121, I live in UK. I have over 18+ years of experience in management, development and support of IT applications/projects.
 - 👀 I’m interested in learning more programming languages and work on a small projects.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
